@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\UMAR_PERSONAL\\_WorkSpace\\Canvas_Components\\Canvas_Component\\FinalVersions\\Nexus\\OrganisationChart\\OrganisationChart.pcfproj": {}
+  },
+  "projects": {
+    "C:\\UMAR_PERSONAL\\_WorkSpace\\Canvas_Components\\Canvas_Component\\FinalVersions\\Nexus\\OrganisationChart\\OrganisationChart.pcfproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\UMAR_PERSONAL\\_WorkSpace\\Canvas_Components\\Canvas_Component\\FinalVersions\\Nexus\\OrganisationChart\\OrganisationChart.pcfproj",
+        "projectName": "OrganisationChart",
+        "projectPath": "C:\\UMAR_PERSONAL\\_WorkSpace\\Canvas_Components\\Canvas_Component\\FinalVersions\\Nexus\\OrganisationChart\\OrganisationChart.pcfproj",
+        "packagesPath": "C:\\Users\\umarg\\.nuget\\packages\\",
+        "outputPath": "C:\\UMAR_PERSONAL\\_WorkSpace\\Canvas_Components\\Canvas_Component\\FinalVersions\\Nexus\\OrganisationChart\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\umarg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net462"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net462": {
+            "targetAlias": "net462",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net462": {
+          "targetAlias": "net462",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.PowerApps.MSBuild.Pcf": {
+              "target": "Package",
+              "version": "[1.*, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

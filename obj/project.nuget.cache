@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "sSpFWHBCSDZz0vVXzMiXofkOvLVYsZAvWbPBHkK/iVgrDkDDYROad8+u1C6bWb3gsYqJ3w7t0PD0MSOH+3BIBw==",
+  "success": true,
+  "projectFilePath": "C:\\UMAR_PERSONAL\\_WorkSpace\\Canvas_Components\\Canvas_Component\\FinalVersions\\Nexus\\OrganisationChart\\OrganisationChart.pcfproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\umarg\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\umarg\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.0\\microsoft.netframework.referenceassemblies.net462.1.0.0.nupkg.sha512",
+    "C:\\Users\\umarg\\.nuget\\packages\\microsoft.powerapps.msbuild.pcf\\1.34.3\\microsoft.powerapps.msbuild.pcf.1.34.3.nupkg.sha512"
+  ],
+  "logs": []
+}
